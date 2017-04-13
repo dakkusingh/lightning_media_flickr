@@ -4,7 +4,7 @@ This module provides Flickr integration for Lightning Media.
 ![media-entity-flickr](https://raw.githubusercontent.com/dakkusingh/media_entity_flickr/8.x-1.x/_documentation/images/4-flickr-media.jpg)
 
 ## Usage
-[Check Usage Guide](https://raw.githubusercontent.com/dakkusingh/media_entity_flickr/8.x-1.x/_documentation/USAGE.md)
+[Check Usage Guide](https://github.com/dakkusingh/media_entity_flickr/blob/8.x-1.x/_documentation/USAGE.md)
 
 ## Project Code
 
